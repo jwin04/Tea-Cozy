@@ -1,0 +1,39 @@
+.head {
+    font-family: Helvetica;
+    background-color: black;
+    color: seashell;
+    opacity: 0.9;
+    height: 69px;
+}
+.nav {
+    position: relative;
+    float: right;
+    color: seashell;
+}
+li {
+    display: inline-block;
+    justify-content: center;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.logo {
+    height: 50px;
+    opacity: 0.5;
+    margin: 10px;
+}
+body {
+    background-color: black;
+    color: seashell;
+}
+.bg1 {
+    height: 700px;
+    width: 1200px;
+    
+}
+.texts1 {
+    z-index: 1;
+    position: relative;
+    color: seashell;
+    border: solid 1px black;
+}
